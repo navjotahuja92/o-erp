@@ -1,0 +1,13 @@
+{
+    "name": "navjotahuja92/o-erp",
+    "description": "Open ERP Solution",
+    "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+    "authors": [
+        {
+            "name": "Navjot Ahuja",
+            "email": "navjotahuja92@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
